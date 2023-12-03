@@ -1,0 +1,21 @@
+.headingSection {
+    /* background-color: midnightblue; */
+    background-image: url("../Images/aboutUs1.jfif") ;
+    height: 30vh;
+}
+
+.headingText {
+    height: 100%;
+    justify-content: center;
+    color: aliceblue;
+    padding-top: 30px;
+    /* align-items: center;    */
+}
+
+.descriptionSection {
+    height: 40vh;
+}
+
+.theButton {
+    margin-left: 115px;
+}

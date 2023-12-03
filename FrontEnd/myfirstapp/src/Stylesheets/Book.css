@@ -1,0 +1,15 @@
+.center-image {
+  display: flex;
+  justify-content: center; /* horizontally center */
+  align-items: center; /* vertically center */
+}
+
+.center-image img {
+  margin: 100px;
+  height: 500px;
+  width: 300px;
+}
+
+table td{
+  font-size: 1.5rem;
+}

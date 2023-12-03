@@ -1,0 +1,13 @@
+.testing {
+    background-color: aqua;
+    height: 100%;
+}
+
+.contactUsSubmitButton {
+    justify-content: center;
+}
+
+.profilePic {
+    height: 450px;
+    width: 100%;
+}
